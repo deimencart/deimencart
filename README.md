@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Diego Méndez Carter
 
-I'm a **Mechatronics Engineer** from **UNAM (Universidad Nacional Autónoma de México)** with a deep passion for robotics, embedded systems, and real-world automation challenges — especially those that intersect with sustainability and social impact.
+I'm a **Mechatronics Engineer** from **UNAM (Universidad Nacional Autónoma de México)**. Studying a Master's in engineering in robotics at the University of Zaragoza with a deep passion for SLAM, Computer vision, embedded systems, and real-world automation challenges — especially those that intersect with sustainability and social impact.
 
 ---
 
