@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Diego Méndez Carter
+# Hi, I'm Diego Méndez Carter
 
 **Mechatronics Engineer (UNAM)** · **M.Sc. in Robotics Candidate (Universidad de Zaragoza / EINA)**  
 Working on **robotic manipulation of deformable objects (DOM)**, **GPU physics simulation**, and **robot perception**.
 
-🌐 **Personal Website & Portfolio:** [https://deimencart.github.io](https://deimencart.github.io)
+ **Personal Website & Portfolio:** [https://deimencart.github.io](https://deimencart.github.io)
 
 ---
 
-### 📖 About Me
+### About Me
 
 I’m a mechatronics engineer from UNAM (Mexico) currently completing my Master’s in Robotics, Graphics and Computer Vision at Universidad de Zaragoza (Spain).
 
@@ -17,7 +17,7 @@ Today, my research focus centers on one of the most challenging frontiers in rob
 
 ---
 
-### 🔬 Current Focus & Research
+### Current Focus & Research
 
 - **Deformable Object Manipulation (DOM):** Developing autonomous manipulation and folding pipelines for non-rigid materials (cloth) using Franka Emika Panda and UR10e arms.
 - **Physics Simulation (Genesis World):** Simulating dynamic interactions with Position Based Dynamics (PBD) and FEM solvers on parallel GPU environments.
@@ -27,29 +27,29 @@ Today, my research focus centers on one of the most challenging frontiers in rob
 
 ---
 
-### 🚀 Featured Projects & Repositories
+###  Featured Projects & Repositories
 
-- 🧵 [**SAC-Curriculum-Repro**](https://github.com/deimencart/SAC-Curriculum-Repro)  
+-  [**SAC-Curriculum-Repro**](https://github.com/deimencart/SAC-Curriculum-Repro)  
   *Soft Actor-Critic (SAC) & Multi-Stage Curriculum Learning for Robotic Cloth Folding in Genesis World (XPBD GPU Physics).* Includes analytical nominal trajectory generators, learned Cartesian residual policy, and evaluation rollouts.
   
-- 🚙 [**Voyager 3 UGV Platform**](https://github.com/deimencart/Voyager)  
+-  [**Voyager 3 UGV Platform**](https://github.com/deimencart/Voyager)  
   *Autonomous All-Terrain Field Rover with Ackermann Steering (EU H2020 RAWFIE platform).* Integrates The Cube Black (Pixhawk 2.1) running ArduRover, a Raspberry Pi 3B companion gateway, a 360° LightWare SF40/C LiDAR, and native ROS 2 Humble mapping.
 
-- 👕 [**CLASP-Repro**](https://github.com/deimencart/CLASP-Repro)  
+-  [**CLASP-Repro**](https://github.com/deimencart/CLASP-Repro)  
   *Semantic Keypoint Detection and Grasp Planning for Garment Manipulation.* ResNet-50 spatial heatmap backbone predicting garment landmarks (waistbands, hems, crotch) for autonomous grasping.
 
-- 📐 [**SFM-Seminar-Project**](https://github.com/deimencart/SFM-Seminar-Project)  
+-  [**SFM-Seminar-Project**](https://github.com/deimencart/SFM-Seminar-Project)  
   *Structure from Motion (SfM) & Historical Camera Localization.* Implements feature matching with SuperGlue, 8-point RANSAC, Essential matrix decomposition, linear triangulation, and bundle adjustment.
 
-- 👁️ [**Topological-SUN-Repro**](https://github.com/deimencart/Topological-SUN-Repro)  
+-  [**Topological-SUN-Repro**](https://github.com/deimencart/Topological-SUN-Repro)  
   *Active Vision & Topological Scene Mapping (Sun et al., 2016).* Next-Best-View (NBV) frontier exploration, volumetric occupancy grids, and topological graph extraction from RGB-D observations.
 
-- 🏖️ **Autonomous Beach Cleaner Rover (B.S. Thesis — UNAM)**  
+-  **Autonomous Beach Cleaner Rover (B.S. Thesis — UNAM)**  
   Designed, fabricated, and tested an autonomous mobile robot tailored for granular terrain navigation and waste collection. Covered full mechanical architecture, actuator sizing, and low-level motor control.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
@@ -60,9 +60,9 @@ Today, my research focus centers on one of the most challenging frontiers in rob
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 
-- 🌐 **Personal Website:** [https://deimencart.github.io](https://deimencart.github.io)
-- 💼 **LinkedIn:** [linkedin.com/in/diegomendezcarter](https://www.linkedin.com/in/diegomendezcarter)
-- ✉️ **Email:** [960616@unizar.es](mailto:960616@unizar.es)
-- 🐙 **GitHub:** [github.com/deimencart](https://github.com/deimencart)
+- **Personal Website:** [https://deimencart.github.io](https://deimencart.github.io)
+- **LinkedIn:** [linkedin.com/in/diegomendezcarter](https://www.linkedin.com/in/diegomendezcarter)
+- **Email:** [960616@unizar.es](mailto:960616@unizar.es)
+- **GitHub:** [github.com/deimencart](https://github.com/deimencart)
